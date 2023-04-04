@@ -4,7 +4,7 @@ const app = express();
 const port = 3000;
 
 app.get('/', (req, res) => {
-  res.send('object');
+  res.send('Mi primer server en express');
 });
 
 app.get('/productos', (req, res) => {
