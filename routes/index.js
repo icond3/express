@@ -1,6 +1,6 @@
 //Desarrollo: iconde 2026
 //Date: 27-06-2026
-
+// de nuez
 const express = require('express');
 
 const productsRouter = require('./products.router')
