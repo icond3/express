@@ -1,6 +1,7 @@
 //Desarrollo: iconde 2026
 //Date: 27-06-2026
 //Desde mi cuenta personal
+//Comentatio desde mac
 const express = require('express');
 
 const productsRouter = require('./products.router')
